@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Nihal Raj</h1>
+
+![alt text](https://github.com/nihal084/nihal084/raw/main/200w.gif)
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
