@@ -10,7 +10,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me - [telegram](http://t.me/Harsh)
+- 📫 How to reach me - [telegram](http://t.me/Nihalofficial001)
 
 
 <h3 align="left">Connect with me:</h3>
